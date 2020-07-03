@@ -703,6 +703,12 @@ justify-content: space-between;
       }
 }
 @media screen and (max-width:360px){
+    .redes-flotantes {
+        right: 12px;
+    }
+    .redes-flotantes i {
+        font-size: 35px;
+    }
     .avocado img{
         margin-left: 5%;
       }   
