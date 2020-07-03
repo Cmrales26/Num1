@@ -32,7 +32,7 @@ display: flex;
 .redes-flotantes {
     position: fixed;
     right: 5px;
-    top: 90%;
+    top: 70%;
 }
 .redes-flotantes i {
     color: black;
@@ -263,7 +263,7 @@ justify-content: space-between;
     }
     .redes-flotantes {
         right: 15px;
-        top: 90%;
+        top: 80%;
     }
     .redes-flotantes i {
         font-size: 50px;
