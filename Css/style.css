@@ -218,7 +218,7 @@ justify-content: space-between;
     }
     .redes-flotantes {
         right: 99px;
-        top: 90%;
+        top: 75%;
     }
     .redes-flotantes i {
         font-size: 80px;
@@ -315,11 +315,11 @@ justify-content: space-between;
 }
 @media screen and (max-width:1441px){
     .redes-flotantes {
-        right: 70px;
-        top: 85%;
+        right: 18px;
+        top: 75%;
     }
     .redes-flotantes i {
-        font-size: 58px;
+        font-size: 50px;
     }
     .text-presentation p{
         font-size: 23px;
@@ -365,11 +365,11 @@ justify-content: space-between;
         margin-top: -30px;
     }
     .redes-flotantes {
-        right: 50px;
-        top: 85%;
+        right: 13px;
+        top: 75%;
     }
     .redes-flotantes i {
-        font-size: 60px;
+        font-size: 50px;
     }
     .avocado img{
         width: 476px;
@@ -429,7 +429,7 @@ justify-content: space-between;
     }
 @media screen and (max-width:1024px){
     .redes-flotantes i {
-        font-size: 55px;
+        font-size: 50px;
     }
     .read-more-state ~ .read-more-trigger:before {
         margin-left: 25%;
@@ -464,8 +464,8 @@ justify-content: space-between;
 }
 @media screen and (max-width:835px){
     .redes-flotantes {
-        right: 35px;
-        top: 80%;
+        right: 0px;
+        top: 75%;
     }
     .read-more-trigger {
         margin-left:-28%; 
@@ -524,7 +524,7 @@ justify-content: space-between;
 @media screen and (max-width:715px){
     .redes-flotantes {
         right: 0px;
-        top: 85%;
+        top: 75%;
     }
     .read-more-state ~ .read-more-trigger:before {
         margin-left: 25%;
@@ -574,6 +574,13 @@ justify-content: space-between;
         width: 500px;
         margin-left: -17px;
     }
+    .redes-flotantes {
+        right: 20px;
+        top: 80%;
+    }
+    .redes-flotantes i{
+        font-size: 39px;
+    }
     .text-presentation p{
         margin-top: -7px;
     }
@@ -614,6 +621,9 @@ justify-content: space-between;
     }
 }
 @media screen and (max-width:537px){
+    .redes-flotantes i{
+        font-size: 39px;
+    }
     .hero-image img{
         margin-top: -15%;
         width: 500px;
@@ -660,7 +670,7 @@ justify-content: space-between;
 
 @media screen and (max-width:376px){
     .redes-flotantes {
-        right: 6px;
+        right: 15px;
     }
     .logo img{
         width: 200%;
